@@ -82,18 +82,19 @@
 
     learning:
         title: Learning Perl 6
-        subtitle: Keeping the Easy, Hard and Impossible Within Reach
+        subtitle: Keeping the Easy, Hard, and Impossible Within Reach
         links:
             - title: Web page
-              url: https://www.learningperl6.com/book/
+              url: https://www.learningperl6.com/
             - title: Kickstarter
               url: https://www.kickstarter.com/projects/1422827986/learning-perl-6
         authors:
           - title: brian d foy
             url: https://www.learningperl6.com/author/brian/
-        target_audience: Programming novices
-        status: Early draft released to backers of the kickstarter campaign
-        available_for_purchase: False
+        target_audience: programmers
+        status: Published
+        publication_date: 2018-08-30
+        available_for_purchase: True
         has_image: True
 
     bailador:
